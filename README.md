@@ -2,7 +2,7 @@
 
 | &nbsp;&nbsp;&nbsp; Java &nbsp;&nbsp;&nbsp;| &nbsp; 架构之路 &nbsp; |&nbsp;&nbsp; 数据库 &nbsp;&nbsp;|&nbsp; 管理之路 &nbsp;| 
 | :---: | :----: | :---: | :----: | 
-| [:tea:](#art-Java) |[:green_book:](#green_book-架构之路) | [:floppy_disk:](#floppy_disk-数据库) | [:mortar_board:](#mortar_board-管理之路) | 
+| [:tea:](#tea) |[:green_book:](#green_book) | [:floppy_disk:](#floppy_disk) | [:mortar_board:](#mortar_board) | 
 
 <br>
 
